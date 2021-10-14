@@ -6,4 +6,10 @@ Arnau Castillo
 Nestor Santana 
 Anna Lea
 Marc Roset :)
+<<<<<<< HEAD
 Adrian Villacis :(
+=======
+Jan Maroto
+Roger Pérez
+Hector Ramirez
+>>>>>>> 831f36b3475dc1ecbfc368b435d016c50a5d7abc
