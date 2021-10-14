@@ -1,6 +1,0 @@
-Llistat d'alumnes
------------------
-Xavi Quesada
-Arnau Castillo
-Adrian Villacis
-
