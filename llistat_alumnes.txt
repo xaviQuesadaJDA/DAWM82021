@@ -12,4 +12,8 @@ Adrian Villacis :(
 Jan Maroto
 Roger Pérez
 Hector Ramirez
+<<<<<<< HEAD
 >>>>>>> 831f36b3475dc1ecbfc368b435d016c50a5d7abc
+=======
+Eric Rubio
+>>>>>>> 73d4676ef771db0bb250823346e7cde4d5813085
